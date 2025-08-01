@@ -15,18 +15,3 @@ This repository is **not a polished project collection**, but rather a **practic
 - Practice data preprocessing and visualization
 
 ---
-
-## 📂 Folder Structure
-Jupyter-Workbench/
-│
-├── notebooks/ # Practice notebooks
-│ ├── pandas_practice.ipynb
-│ ├── eda_exercise.ipynb
-│ └── ...
-├── datasets/ # Sample datasets used
-├── README.md # This file
-
-yaml
-Copy
-Edit
-
